@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Dineshkumar189&label=profile+views&style=plastic)
 
-## Hi there 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&lines=This+is+Dinesh+Kumar&t=1234567890)](https://git.io/typing-svg)
+## Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&lines=This+is+Dinesh+Kumar&t=1234567890)](https://git.io/typing-svg)
 
 
          
